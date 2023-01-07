@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+
+body {
+    font-family: Lora, serif;
+    background: linear-gradient(90deg, #A03CB1 0%, #25012D 100%);
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: rgb(143, 143, 143);
+}
+
+.navbar-brand img {
+    width: 38px;
+}
+
+.navbar-toggler {
+    background: rgb(143, 143, 143);
+}
+
+.card {
+    background: linear-gradient(90deg, #450356 0%, #A03CB1 100%);
+    color: aquamarine;
+}
+
+.card a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.sidebar {
+    color: aquamarine;
+    background: linear-gradient(90deg, #450356 0%, #A03CB1 100%);
+}
+
+.slide-text {
+    color: aquamarine;
+    text-align: center;
+    margin-block: auto;
+}
+.heading p {
+    text-align: center;
+    color: aquamarine;
+    font-size: 60px
+}
+
+
